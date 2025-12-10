@@ -7,7 +7,7 @@ title: Home
 
 [Paste your professional paragraph from Week 2 here]
 
-## Assignments
+## Professional Writing Samples/Projects
 
 - [Resume](resume.md)
 - [Cover Letter](coverletter.md)
