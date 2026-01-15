@@ -3,9 +3,9 @@ layout: default
 title: Home
 ---
 
-# Your Name Here
+# Skylar Jakubetz
 
-[Paste your professional paragraph from Week 2 here]
+Skylar Jakubetz is a 3rd year electrical engineer minoring in engineering leadership at the University of Central Florida. She is seeking to use her programming skills to develop embedded systems. She has hands-on experience with design projects using Raspberry Pi and C. Through coursework and independent learning, she has become knowledgeable in Python, C++, and Arduino. Skylar's portfolio highlights her enthusiasm for continuing to develop her skills in electrical engineering.
 
 ## Professional Writing Samples/Projects
 
