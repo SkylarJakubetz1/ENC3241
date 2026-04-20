@@ -5,16 +5,13 @@ title: Cover Letter
 
 # Cover Letter
 
-Skylar Jakubetz
-
-4000 Central Florida Blvd
-
+Skylar Jakubetz      
+4000 Central Florida Blvd       
 Orlando, FL 32816
 
 FakeEmail
 
-Honeywell
-
+Honeywell     
 855 S Mint St, Charlotte, NC 28202
 
 February 23, 2026
