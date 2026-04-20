@@ -115,3 +115,25 @@ April 11, 2027 – May 1, 2027
 • Compile Findings
 
 • Write Final Report and Prepare Presentation
+
+
+Budget
+
+Raspberry Pi Kit (x1)  $204.99
+
+Soil Moisture Sensors (x6) $1.80 -> $10.80
+
+Water Pump (x6) $3 -> $18.00
+
+Mosfet relay (x1) $.90 -> $5.49
+
+Battery clip (x1 3-4 AA) 7.99 -> $7.99
+
+PVC tube (x6) 8.69 -> $52.14
+
+Jumper wires (120pc set) $6.98
+
+Plants and soil (x12) $5.00 + $10.00 soil $240
+
+Total - $546.39
+
