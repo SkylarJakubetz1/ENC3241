@@ -6,10 +6,11 @@ Skylar Jakubetz is an electrical engineer minoring in engineering leadership at 
 interested in using her programming skills to reinforce electrical engineering principles in design and control systems.
 
 Education
+
 Bachelor of Science, Electrical Engineering, UCF, Orlando, FL Anticipated December 2028
-   Minor in Engineering Leadership                                                          3.82 GPA
+  - Minor in Engineering Leadership                                                          3.82 GPA
 Associate of Arts, Eastern Florida State College, Melbourne, FL May 2025
-   Eastern Florida Honors Program                                                           3.91 GPA
+  - Eastern Florida Honors Program                                                           3.91 GPA
    
 Skills
 - AutoCAD, Mathcad, and MATLAB
