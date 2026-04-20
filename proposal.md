@@ -45,9 +45,62 @@ Anticipated Outcomes
 
 ➢ Quantitative dataset capturing soil moisture level, temperature, and humidity. Including
 consumption metrics (mL) over 7 weeks.
+
 ➢ A technical report evaluating the water efficiency of manual watering vs. an IoT system,
 with a percentage of how much water is saved.
+
 ➢ Vertical height and leaf count will be assessed between the control group and
 experimental group to determine the effectiveness of proper saturation.
+
 ➢ Submission of a research poster and oral presentation to the Office of Undergraduate
 Research (OUR) symposium, including experimental findings.
+
+Significance
+
+This automatic watering system is significant not only for observing plant growth but also for
+finding a more efficient way to monitor plant health. Traditional methods of tracking plant
+growth are more difficult when we want to observe environmental factors such as temperature,
+humidity, and soil moisture. By using sensors to monitor these factors, the technology will be
+able to help identify if a plant was overwatered or dehydrated. This project will record reliable
+data that will benefit home gardeners, farmers, and researchers who are interested in improving
+plant health.
+
+References
+
+Experts, PlantIn. “Overwatered vs Underwatered Plants: Signs, Fix Tips (Full Guide).”
+Overwatered Vs Underwatered Plants: Signs, Fix Tips (Full Guide), PlantIn, 24 Nov.
+2022, myplantin.com/blog/overwatered-vs-underwatered-plants.
+
+Lofton, Esther N. “Smart Irrigation Controllers and Their Importance in Water Conservation:
+Smart Water Living: Urban Water Use Efficiency in SoCal.” UC Agriculture and Natural
+Resources, 24 Jan. 2025, ucanr.edu/blog/smart-water-living-urban-water-efficiency-
+socal/article/smart-irrigation-controllers-and-their.
+
+P, Kiran M. “Smart Home Gardening System Using Raspberry Pi.” Hackster.Io, 20 July 2017,
+www.hackster.io/mtechkiran/smart-home-gardening-system-using-raspberry-pi-1570a7.
+
+Water Solutions, Mottech. “The Role of IOT in Modernizing Water Supply Systems.” Mottech, 6
+Mar. 2025, mottech.com/news/the-role-of-iot-in-modernizing-water-supply-systems/.
+
+Timeline
+Dates and Tasks
+January 1, 2027- January 17, 2027
+• Research Review on Automated Watering and IoT Systems.
+• Finalize System Design
+
+January 18, 2027 – January 24, 2027
+• Purchase Components
+• Set up Raspberry Pi and Sensors
+
+January 25, 2027 – February 7, 2027
+• Program Watering Logic and Scheduling
+
+February 8, 2027 – March 29, 2027
+• Test System on Plants
+• Collect Soil Moisture Levels and Growth Data
+
+March 30, 2027 – April 10, 2027
+• Analyze Data
+
+April 11, 2027 – May 1, 2027 • Compile Findings
+• Write Final Report and Prepare Presentation
