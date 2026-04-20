@@ -5,11 +5,11 @@ title: Proposal
 
 # Proposal
 
-Optimizing Plant Growth Through Sensor Feedback
+# Optimizing Plant Growth Through Sensor Feedback
 
-Skylar Jakubetz Electrical Engineering
+#### Skylar Jakubetz Electrical Engineering
 
-Background
+# Background
 Indoor plants have grown in popularity because of their positive contribution to a
 peaceful environment and fresh oxygen (Wells, 2023). However, maintaining optimal soil
 moisture remains a significant challenge. Traditional irrigation methods are flawed and don’t
@@ -25,8 +25,7 @@ moisture, humidity, and temperature to deliver water to the plant when necessary
 2025). This research project is personally relevant because I am interested in sustainable
 solutions for everyday life.
 
-Methodology
-
+# Methodology
 The data for this research project will be collected through direct measurements, system logging,
 and user feedback during a controlled plant growth experiment.
 First, the Raspberry Pi 4 will be programmed to monitor soil moisture and water plants
@@ -41,7 +40,7 @@ Over a 7-week timeline, soil moisture, water usage, frequency, and growth will b
 and organized into tables and graphs. Growth will be assessed bi-weekly by measuring height
 (cm) and leaf count.
 
-Anticipated Outcomes
+# Anticipated Outcomes
 
 ➢ Quantitative dataset capturing soil moisture level, temperature, and humidity. Including
 consumption metrics (mL) over 7 weeks.
@@ -55,8 +54,7 @@ experimental group to determine the effectiveness of proper saturation.
 ➢ Submission of a research poster and oral presentation to the Office of Undergraduate
 Research (OUR) symposium, including experimental findings.
 
-Significance
-
+# Significance
 This automatic watering system is significant not only for observing plant growth but also for
 finding a more efficient way to monitor plant health. Traditional methods of tracking plant
 growth are more difficult when we want to observe environmental factors such as temperature,
@@ -65,8 +63,7 @@ able to help identify if a plant was overwatered or dehydrated. This project wil
 data that will benefit home gardeners, farmers, and researchers who are interested in improving
 plant health.
 
-References
-
+# References
 Experts, PlantIn. “Overwatered vs Underwatered Plants: Signs, Fix Tips (Full Guide).”
 Overwatered Vs Underwatered Plants: Signs, Fix Tips (Full Guide), PlantIn, 24 Nov.
 2022, myplantin.com/blog/overwatered-vs-underwatered-plants.
@@ -82,8 +79,7 @@ www.hackster.io/mtechkiran/smart-home-gardening-system-using-raspberry-pi-1570a7
 Water Solutions, Mottech. “The Role of IOT in Modernizing Water Supply Systems.” Mottech, 6
 Mar. 2025, mottech.com/news/the-role-of-iot-in-modernizing-water-supply-systems/.
 
-Timeline
-Dates and Tasks
+# Timeline with Dates and Tasks
 
 January 1, 2027- January 17, 2027
 
@@ -117,7 +113,7 @@ April 11, 2027 – May 1, 2027
 • Write Final Report and Prepare Presentation
 
 
-Budget
+# Budget
 
 Raspberry Pi Kit (x1)  $204.99
 
