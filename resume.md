@@ -9,6 +9,7 @@ Education
 
 Bachelor of Science, Electrical Engineering, UCF, Orlando, FL Anticipated December 2028
   - Minor in Engineering Leadership                                                          3.82 GPA
+    
 Associate of Arts, Eastern Florida State College, Melbourne, FL May 2025
   - Eastern Florida Honors Program                                                           3.91 GPA
    
