@@ -18,8 +18,9 @@ Step 2: Place the gift in the center of the wrapping paper, face down
   
 Note: Adding extra inches of space is encouraged.
                <img width="444" height="277" alt="image" src="https://github.com/user-attachments/assets/4434fddd-ee27-4574-96bc-b8f68b5f590e" />
-                                      Figure 1. Shows how the gift should appear relative to the paper size.
-                               Source : (https://holidays.dozuki.com/Guide/Measure+Your+Wrapping+Paper%E2%80%94Part+1/16)
+               
+  Figure 1. Shows how the gift should appear relative to the paper size.
+  Source : (https://holidays.dozuki.com/Guide/Measure+Your+Wrapping+Paper%E2%80%94Part+1/16)
                                
 Step 3: Cut a straight line along the roll. 
 
