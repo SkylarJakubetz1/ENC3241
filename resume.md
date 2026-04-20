@@ -19,7 +19,7 @@ Skills
 - Markdown
   
 Certifications
-- Microsoft Ofϐice Certifications (Word and PowerPoint)
+- Microsoft Office Certifications (Word and PowerPoint)
 - MATLAB On-Ramp Certification- Familiarity with Matrices, arrays, and visualizing data
 Experience
 
