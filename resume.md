@@ -2,7 +2,7 @@
 layout: default
 title: Resume
 ---
-
+Resume was created for ENC3241 at the University of Central Florida. This resume reflects current experience, skills, and certificates.
 # Resume
 ## Skylar Jakubetz
 
