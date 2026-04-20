@@ -1,4 +1,5 @@
-Skylar Jakubetz 
+Skylar Jakubetz
+
 [Email] [Phone Number] [Florida]
 
 Skylar Jakubetz is an electrical engineer minoring in engineering leadership at the University of Central Florida. She is
