@@ -84,6 +84,7 @@ Mar. 2025, mottech.com/news/the-role-of-iot-in-modernizing-water-supply-systems/
 
 Timeline
 Dates and Tasks
+
 January 1, 2027- January 17, 2027
 
 • Research Review on Automated Watering and IoT Systems.
@@ -109,6 +110,8 @@ March 30, 2027 – April 10, 2027
 
 • Analyze Data
 
-April 11, 2027 – May 1, 2027 • Compile Findings
+April 11, 2027 – May 1, 2027 
+
+• Compile Findings
 
 • Write Final Report and Prepare Presentation
