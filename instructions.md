@@ -17,7 +17,7 @@ Step 2: Place the gift in the center of the wrapping paper, face down
 - Leave enough space on all sides to be able to cover the top completely.
   
 Note: Adding extra inches of space is encouraged.
-               <img width="444" height="277" alt="image" src="https://github.com/user-attachments/assets/4434fddd-ee27-4574-96bc-b8f68b5f590e" />
+<img width="444" height="277" alt="image" src="https://github.com/user-attachments/assets/4434fddd-ee27-4574-96bc-b8f68b5f590e" />
                
   Figure 1. Shows how the gift should appear relative to the paper size.
   Source : (https://holidays.dozuki.com/Guide/Measure+Your+Wrapping+Paper%E2%80%94Part+1/16)
@@ -29,9 +29,10 @@ Step 3: Cut a straight line along the roll.
 Step 4: Tightly pull the two long sides of the paper together over the gift
 
 Note: If the gift is a symmetrical box, it does not matter which side you pick to fold over first.
-                     <img width="234" height="234" alt="image" src="https://github.com/user-attachments/assets/84df70ac-5e83-42e3-9ff4-f3cc45f2e2f8" />
+<img width="234" height="234" alt="image" src="https://github.com/user-attachments/assets/84df70ac-5e83-42e3-9ff4-f3cc45f2e2f8" />
                      
-Figure 2: Shows where the placement of the paper should be to create the seam.                          
+Figure 2: Shows where the placement of the paper should be to create the seam.   
+
 Source : (https://www.oprah.com/holidays/how-to-wrap-a-gift-step-by-step )
 
 Step 5: Tape down one side of the paper to the gift, then tape the other, overlapping the bottom piece slightly.
@@ -49,6 +50,7 @@ Step 7: Fold the top and bottom pieces together to overlap the right and left ed
 •	Push the top side of the paper down and tape it to the gift, then push the bottom side up and tape it. 
 
   <img width="281" height="281" alt="image" src="https://github.com/user-attachments/assets/da0ccc0d-e37e-449b-8504-a2fa0f8e492c" />
+  
   Figure 2: Presents the right and left edges being folded inward
   
   Source : (https://static.oprah.com/2022/11/201609-orig-gift-wrap-4-180x180.jpg) 
