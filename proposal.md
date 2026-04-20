@@ -42,11 +42,15 @@ and organized into tables and graphs. Growth will be assessed bi-weekly by measu
 (cm) and leaf count.
 
 Anticipated Outcomes
+
 ➢ Quantitative dataset capturing soil moisture level, temperature, and humidity. Including
 consumption metrics (mL) over 7 weeks.
+
 ➢ A technical report evaluating the water efficiency of manual watering vs. an IoT system,
 with a percentage of how much water is saved.
+
 ➢ Vertical height and leaf count will be assessed between the control group and
 experimental group to determine the effectiveness of proper saturation.
+
 ➢ Submission of a research poster and oral presentation to the Office of Undergraduate
 Research (OUR) symposium, including experimental findings.
