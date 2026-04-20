@@ -1,3 +1,9 @@
+---
+layout: default
+title: Resume
+---
+
+# Resume
 Skylar Jakubetz
 
 [Email] [Phone Number] [Florida]
