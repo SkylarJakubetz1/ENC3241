@@ -66,7 +66,7 @@ plant health.
 # References
 Experts, PlantIn. “Overwatered vs Underwatered Plants: Signs, Fix Tips (Full Guide).”
 Overwatered Vs Underwatered Plants: Signs, Fix Tips (Full Guide), PlantIn, 24 Nov.
-2022, myplantin.com/blog/overwatered-vs-underwatered-plants.
+2022, myplantin.com/blog/overwatered-vs-underwatered-plants. 
 
 Lofton, Esther N. “Smart Irrigation Controllers and Their Importance in Water Conservation:
 Smart Water Living: Urban Water Use Efficiency in SoCal.” UC Agriculture and Natural
@@ -81,32 +81,32 @@ Mar. 2025, mottech.com/news/the-role-of-iot-in-modernizing-water-supply-systems/
 
 # Timeline with Dates and Tasks
 
-January 1, 2027- January 17, 2027
+#### January 1, 2027- January 17, 2027
 
 • Research Review on Automated Watering and IoT Systems.
 • Finalize System Design
 
-January 18, 2027 – January 24, 2027
+#### January 18, 2027 – January 24, 2027
 
 • Purchase Components
 
 • Set up Raspberry Pi and Sensors
 
-January 25, 2027 – February 7, 2027
+#### January 25, 2027 – February 7, 2027
 
 • Program Watering Logic and Scheduling
 
-February 8, 2027 – March 29, 2027
+#### February 8, 2027 – March 29, 2027
 
 • Test System on Plants
 
 • Collect Soil Moisture Levels and Growth Data
 
-March 30, 2027 – April 10, 2027
+#### March 30, 2027 – April 10, 2027
 
 • Analyze Data
 
-April 11, 2027 – May 1, 2027 
+#### April 11, 2027 – May 1, 2027 
 
 • Compile Findings
 
