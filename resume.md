@@ -6,7 +6,7 @@ title: Resume
 # Resume
 ## Skylar Jakubetz
 
-#### [SkylarJakubetz@outlook.com] [321-419-2766] [7600 Half Moon Ct, Melbourne, FL 32940]
+#### SkylarJakubetz@outlook.com  - 321-419-2766  - 7600 Half Moon Ct, Melbourne, FL 32940
 
 Skylar Jakubetz is an electrical engineer minoring in engineering leadership at the University of Central Florida. She is
 interested in using her programming skills to reinforce electrical engineering principles in design and control systems.
@@ -30,15 +30,19 @@ Associate of Arts, Eastern Florida State College, Melbourne, FL May 2025
 - MATLAB On-Ramp Certification- Familiarity with Matrices, arrays, and visualizing data
 
 ### Campus Involvment 
-UCF Society of Women Engineers (SWE)
-  Annual Fall Mystery Design Workshop 				                                                       October 10, 2026
+
+UCF Society of Women Engineers (SWE)                                                                - October 10, 2026
+
+Annual Fall Mystery Design Workshop 				                                                         
   •	Supported STEM workshops for middle school girls interested in science and engineering. 
 
-IMPOWER, Orlando, FL  (VUCF)							                                                            August 29, 2026
+IMPOWER, Orlando, FL  (VUCF)						                                                              - August 29, 2026
+
   •	Assisted with preparing and refurbishing a bedroom for an incoming young adult entering the IMPOWER program.
   •	Worked collaboratively with volunteers to organize materials and create a welcoming and functional living space.
 
-Alcorn McBride, Orlando, FL	                                                                                March 2026
+Alcorn McBride, Orlando, FL	                                                                              - March 2026
+
   •	Earned a position in a competitive single-day engineering program to analyze workflows and shadow active electrical engineers.
   
 ### Experience
