@@ -11,5 +11,4 @@ Skylar Jakubetz is an electrical engineer minoring in engineering leadership at 
 
 - [Resume](resume.md)
 - [Cover Letter](coverletter.md)
-- [Instructions](instructions.md)
-- [Proposal](proposal.md)
+
